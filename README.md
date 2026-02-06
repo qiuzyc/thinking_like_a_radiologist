@@ -12,9 +12,6 @@ Official code of ''Thinking Like a Radiologist: A Dataset for Anatomy-Guided Int
 <img src="./pipeline.png" width="900">
 </p>
 
-## News 
-- [2026/02/06] Preprint is available.
-
 ## TODO 
 - [ ] Release training codes
 - [ ] Release a subset of MMRad-IVL dataset
