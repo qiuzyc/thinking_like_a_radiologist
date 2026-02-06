@@ -1,6 +1,6 @@
 # Thinking like a radiologist
 
-Official code of ''Thinking Like a Radiologist: A Dataset for Anatomy-Guided Interleaved Vision Language Reasoning in Medical Report Generation''
+Official code of ''Thinking Like a Radiologist: A Dataset for Anatomy-Guided Interleaved Vision Language Reasoning in Radiological Diagnosis''
 
 <p align="center">
   📤 <a href="https://github.com/qiuzyc/thinking_like_a_radiologist" target="_self">Get Started</a> &nbsp; | &nbsp;
@@ -9,8 +9,8 @@ Official code of ''Thinking Like a Radiologist: A Dataset for Anatomy-Guided Int
 </p>
 
 ## TODO 
-- [ ] Implementation of training codes  
-- [ ] Implementation of full dataset
+- [ ] Release training codes (expect to be done after Chinese New Year)
+- [ ] Release a subset of MMRad-IVL dataset (expect to be done after Chinese New Year)
 
 ## Acknowledgements
 - [thinking with generated images](https://github.com/GAIR-NLP/thinking-with-generated-images)
