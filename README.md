@@ -9,7 +9,7 @@ Official code of ''Thinking Like a Radiologist: A Dataset for Anatomy-Guided Int
 </p>
 
 <p align="center">
-<img src="./pipeline.png" width="700">
+<img src="./pipeline.png" width="900">
 </p>
 
 ## News 
