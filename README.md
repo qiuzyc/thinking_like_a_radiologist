@@ -9,8 +9,8 @@ Official code of ''Thinking Like a Radiologist: A Dataset for Anatomy-Guided Int
 </p>
 
 ## TODO 
-- [ ] Release training codes (expect to be done after Chinese New Year)
-- [ ] Release a subset of MMRad-IVL dataset (expect to be done after Chinese New Year)
+- [ ] Release training codes
+- [ ] Release a subset of MMRad-IVL dataset
 
 ## Acknowledgements
 - [thinking with generated images](https://github.com/GAIR-NLP/thinking-with-generated-images)
