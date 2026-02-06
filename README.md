@@ -8,6 +8,9 @@ Official code of ''Thinking Like a Radiologist: A Dataset for Anatomy-Guided Int
   🤗 <a href="https://github.com/qiuzyc/thinking_like_a_radiologist" target="_blank">Dataset</a>
 </p>
 
+## News 
+- [2026/02/06] Preprint is available.
+
 ## TODO 
 - [ ] Release training codes
 - [ ] Release a subset of MMRad-IVL dataset
