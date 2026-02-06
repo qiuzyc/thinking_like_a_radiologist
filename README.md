@@ -21,4 +21,5 @@ Official code of ''Thinking Like a Radiologist: A Dataset for Anatomy-Guided Int
 - [ ] Release full MMRad-IVL dataset
 
 ## Acknowledgements
-- [thinking with generated images](https://github.com/GAIR-NLP/thinking-with-generated-images)
+- [GeMeX-ThinkVG dataset](https://huggingface.co/datasets/BoKelvin/GEMeX-ThinkVG)
+- [Thinking with Generated Images](https://github.com/GAIR-NLP/thinking-with-generated-images)
