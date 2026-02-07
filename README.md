@@ -1,6 +1,6 @@
 # Thinking like a radiologist
 
-Official code of ''Thinking Like a Radiologist: A Dataset for Anatomy-Guided Interleaved Vision Language Reasoning in Radiological Diagnosis''
+Official code of ''Thinking Like a Radiologist: A Dataset for Anatomy-Guided Interleaved Vision Language Reasoning in Chest X-ray Interpretation''
 
 <p align="center">
   📤 <a href="https://github.com/qiuzyc/thinking_like_a_radiologist" target="_self">Get Started</a> &nbsp; | &nbsp;
