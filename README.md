@@ -12,12 +12,17 @@ Official code of ''Thinking Like a Radiologist: A Dataset for Anatomy-Guided Int
 <img src="./pipeline.png" width="900">
 </p>
 
-## TODO 
+
+## 🌟 Highlights
+**MMRad-IVL-22K**: the first large-scale dataset designed for natively interleaved visual language reasoning in chest X-ray interpretation. It reflects **a repeated cycle of reasoning and visual inspection workflow**
+of radiologists, containing 22K high-quality and expert-verified multimodal diagnostic traces.
+
+## 🖼️ TODO 
 - [ ] Release training codes
 - [ ] Release a subset of MMRad-IVL dataset
 - [ ] Release full MMRad-IVL dataset
 
-## Acknowledgements
+## 🤝 Acknowledgements
 - [GeMeX-ThinkVG](https://huggingface.co/datasets/BoKelvin/GEMeX-ThinkVG)
 - [Anole-Zebra-CoT](https://huggingface.co/multimodal-reasoning-lab/Anole-Zebra-CoT)
 - [Thinking with Generated Images](https://github.com/GAIR-NLP/thinking-with-generated-images)
