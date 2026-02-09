@@ -18,6 +18,6 @@ Official code of ''Thinking Like a Radiologist: A Dataset for Anatomy-Guided Int
 - [ ] Release full MMRad-IVL dataset
 
 ## Acknowledgements
-- [GeMeX-ThinkVG dataset](https://huggingface.co/datasets/BoKelvin/GEMeX-ThinkVG)
+- [GeMeX-ThinkVG](https://huggingface.co/datasets/BoKelvin/GEMeX-ThinkVG)
 - [Anole-Zebra-CoT](https://huggingface.co/multimodal-reasoning-lab/Anole-Zebra-CoT)
 - [Thinking with Generated Images](https://github.com/GAIR-NLP/thinking-with-generated-images)
