@@ -4,7 +4,7 @@ Official code of ''Thinking Like a Radiologist: A Dataset for Anatomy-Guided Int
 
 <p align="center">
   📤 <a href="https://github.com/qiuzyc/thinking_like_a_radiologist" target="_self">Get Started</a> &nbsp; | &nbsp;
-  📄 <a href="https://github.com/qiuzyc/thinking_like_a_radiologist" target="_blank">Preprint</a> &nbsp; | &nbsp;
+  📄 <a href="https://arxiv.org/abs/2602.12843" target="_blank">Preprint</a> &nbsp; | &nbsp;
   🤗 <a href="https://github.com/qiuzyc/thinking_like_a_radiologist" target="_blank">Dataset</a>
 </p>
 
