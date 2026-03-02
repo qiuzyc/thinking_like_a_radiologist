@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0,1 torchrun --nproc_per_node=2 --master_port=8086 finetune.py --initial_model ../Anole-zebra-cot  --trained_model ../Anole-IVL-zebra
