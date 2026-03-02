@@ -9,16 +9,29 @@ Official code of ''Thinking Like a Radiologist: A Dataset for Anatomy-Guided Int
 </p>
 
 <p align="center">
-<img src="./statistics.png" width="1000">
+<img src="./statistics.png" width="900">
 </p>
-
 
 ## Highlights
 **MMRad-IVL-22K**: the first large-scale dataset designed for natively interleaved visual language reasoning in chest X-ray interpretation. It reflects **a repeated cycle of reasoning and visual inspection workflow**
 of radiologists, containing 22K high-quality and expert-verified multimodal diagnostic traces.
 
+## Anole-RadCoT 
+This repository is adapted from the [Thinking with Generated Images](https://github.com/GAIR-NLP/thinking-with-generated-images)  repository.
+
+## Training
+### Download Checkpoint
+Set the `HF_HOME` in `download_model.py` to the path of the base model checkpoint you want to download.
+
+```bash
+python download_model.py
+```
+Some reference checkpoints: [Anole-7b](https://huggingface.co/GAIR/Anole-7b-v0.1), [Anole-Zebra-CoT](https://huggingface.co/multimodal-reasoning-lab/Anole-Zebra-CoT) 
+
+### Train Model with LoRA Adaptation
+
 ## TODO 
-- [ ] Release training codes
+- [x] Release training and reference codes
 - [ ] Release a subset of MMRad-IVL dataset
 - [ ] Release full MMRad-IVL dataset
 
