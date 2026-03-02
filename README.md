@@ -23,7 +23,7 @@ This repository is adapted from the [Thinking with Generated Images](https://git
 Install requirements and `transformers`.
 ```
 conda create -n anole python=3.10
-cd anole
+conda activate anole
 bash install.sh
 ```
 
