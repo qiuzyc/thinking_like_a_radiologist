@@ -29,7 +29,7 @@ bash install.sh
 
 ## Training
 ### Download Checkpoint
-Set the `HF_HOME` in `download_model.py` to the path of the base model checkpoint you want to download.
+Set the `HF_HOME` and `repo_id` in `download_model.py` to the path of the base model checkpoint you want to download.
 
 ```
 python download_model.py
