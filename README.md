@@ -42,7 +42,7 @@ Tokenize the input to fit the training code. The input needs to be restructured 
 cd training
 python tokenization.py
 ```
-We also provide the example initial and tokenized input data in `./training/input_reference`.
+We also provide the example initial and tokenized input data in `./input_reference`.
 
 
 ### Train Model with LoRA Adaptation
