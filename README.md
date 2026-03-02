@@ -19,19 +19,47 @@ of radiologists, containing 22K high-quality and expert-verified multimodal diag
 ## Anole-RadCoT 
 This repository is adapted from the [Thinking with Generated Images](https://github.com/GAIR-NLP/thinking-with-generated-images)  repository.
 
+## Setup
+Install requirements and `transformers`.
+```
+conda create -n anole python=3.10
+cd anole
+bash install.sh
+```
+
 ## Training
 ### Download Checkpoint
 Set the `HF_HOME` in `download_model.py` to the path of the base model checkpoint you want to download.
 
-```bash
+```
 python download_model.py
 ```
 Some reference checkpoints: [Anole-7b](https://huggingface.co/GAIR/Anole-7b-v0.1), [Anole-Zebra-CoT](https://huggingface.co/multimodal-reasoning-lab/Anole-Zebra-CoT) 
 
+### Tokenization
+Tokenize the input to fit the training code. The input needs to be restructured to match the Anole format.
+```
+cd training
+python tokenization.py
+```
+We also provide the example initial and tokenized input data in `./training/input_reference`.
+
+
 ### Train Model with LoRA Adaptation
+```
+cd training
+bash train.sh
+```
+
+## Inference
+Inference consists of `inference.py` and `detokenization.py`. `combined.py` is used for unified calling.
+```
+cd inference
+bash combined.sh
+```
 
 ## TODO 
-- [x] Release training and reference codes
+- [x] Release training and inference codes
 - [ ] Release a subset of MMRad-IVL dataset
 - [ ] Release full MMRad-IVL dataset
 
